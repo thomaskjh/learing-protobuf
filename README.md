@@ -24,7 +24,7 @@ message SearchQuest {
 * 简单类型对应关系及默认值
 
 | .protoType    | defaul    | c++       | java          | python        | go        | 
-| --            | --        | --        | --            | --            | --        |
+| ------------- | --------- | --------- | ------------- | ------------- | --------- |
 | double        | 0         | double    | double        | float         | float64   |
 | int32         | 0         | int32     | int           | int           | int32     |
 | int64         | 0         | int64     | long          | int/long      | int64     |
